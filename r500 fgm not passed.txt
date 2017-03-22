@@ -1,0 +1,189 @@
+--fullstop
+keyword start7
+--fullstop
+GSE10113_series_matrix.txtimp_info.txt
+the GS modified is 'sac' with confidence 1.830000
+line start7
+GSE10726_series_matrix.txtimp_info.txt
+the GS modified is 'beta-catenin' with confidence 3.710000
+deficient one
+deficient one
+GSE12538_series_matrix.txtimp_info.txt
+the GS modified is 'myc' with confidence 3.450000
+--fullstop
+minus two
+GSE18052-GPL1261_series_matrix.txtimp_info.txt
+the GS modified is 'bbf2h7' with confidence -2.780000
+minus two
+minus two
+minus two
+GSE19194_series_matrix.txtimp_info.txt
+the GS modified is 'cbfb' with confidence -8.340000
+minus two
+minus two
+minus two
+GSE19329_series_matrix.txtimp_info.txt
+the GS modified is 'vrk1' with confidence -8.340000
+deficient one
+deficient one
+GSE19960-GPL9250_series_matrix.txtimp_info.txt
+the GS modified is 'aid' with confidence 6.900000
+line start7
+GSE30318_series_matrix.txtimp_info.txt
+the GS modified is 'fancc' with confidence 3.710000
+deficient one
+GSE32487-GPL9250_series_matrix.txtimp_info.txt
+the GS modified is 'dnmt3a' with confidence 3.450000
+overexpression one
+GSE33199_series_matrix.txtimp_info.txt
+the GS modified is 'myc' with confidence 0.370000
+--- 13.9409999847 seconds ---
+         2976280 function calls (2974043 primitive calls) in 12.967 seconds
+
+   Ordered by: cumulative time
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+     8784   12.240    0.001   13.631    0.002 D:/M.Tech work/proper/fgm.py:27(find_matches)
+    14883    0.179    0.000    1.130    0.000 {any}
+      108    0.005    0.000    0.124    0.001 rules1.py:7(cl)
+    32279    0.027    0.000    0.099    0.000 C:\Anaconda\lib\re.py:226(_compile)
+2084684/2084477    0.099    0.000    0.099    0.000 {len}
+     2376    0.002    0.000    0.094    0.000 C:\Anaconda\lib\re.py:139(search)
+    29351    0.020    0.000    0.091    0.000 C:\Anaconda\lib\re.py:164(split)
+      504    0.069    0.000    0.069    0.000 {method 'readlines' of 'file' objects}
+      361    0.002    0.000    0.064    0.000 C:\Anaconda\lib\sre_compile.py:493(compile)
+     2376    0.051    0.000    0.051    0.000 {method 'search' of '_sre.SRE_Pattern' objects}
+   289021    0.046    0.000    0.046    0.000 {method 'lower' of 'str' objects}
+    29351    0.041    0.000    0.041    0.000 {method 'split' of '_sre.SRE_Pattern' objects}
+      552    0.001    0.000    0.038    0.000 C:\Anaconda\lib\re.py:144(sub)
+      361    0.002    0.000    0.035    0.000 C:\Anaconda\lib\sre_parse.py:677(parse)
+  755/361    0.002    0.000    0.032    0.000 C:\Anaconda\lib\sre_parse.py:301(_parse_sub)
+  786/392    0.012    0.000    0.030    0.000 C:\Anaconda\lib\sre_parse.py:379(_parse)
+      361    0.001    0.000    0.026    0.000 C:\Anaconda\lib\sre_compile.py:478(_code)
+      504    0.026    0.000    0.026    0.000 {open}
+   289021    0.026    0.000    0.026    0.000 {method 'rstrip' of 'str' objects}
+  989/361    0.011    0.000    0.018    0.000 C:\Anaconda\lib\sre_compile.py:32(_compile)
+       80    0.001    0.000    0.014    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:196(write)
+      552    0.011    0.000    0.011    0.000 {method 'sub' of '_sre.SRE_Pattern' objects}
+       20    0.000    0.000    0.010    0.001 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:140(flush)
+    20948    0.009    0.000    0.010    0.000 D:/M.Tech work/proper/fgm.py:46(<genexpr>)
+     6729    0.003    0.000    0.010    0.000 C:\Anaconda\lib\sre_parse.py:201(get)
+    29351    0.009    0.000    0.009    0.000 {filter}
+       20    0.000    0.000    0.008    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:583(send)
+        2    0.001    0.000    0.008    0.004 C:\Anaconda\lib\os.py:209(walk)
+     7725    0.007    0.000    0.008    0.000 C:\Anaconda\lib\sre_parse.py:182(__next)
+    33158    0.008    0.000    0.008    0.000 {method 'get' of 'dict' objects}
+      361    0.002    0.000    0.007    0.000 C:\Anaconda\lib\sre_compile.py:359(_compile_info)
+     1000    0.002    0.000    0.006    0.000 C:\Anaconda\lib\ntpath.py:62(join)
+ 1178/564    0.005    0.000    0.005    0.000 C:\Anaconda\lib\sre_parse.py:140(getwidth)
+     6816    0.003    0.000    0.005    0.000 C:\Anaconda\lib\sre_parse.py:130(__getitem__)
+      500    0.004    0.000    0.004    0.000 {nt._isdir}
+      872    0.004    0.000    0.004    0.000 C:\Anaconda\lib\re.py:204(escape)
+     2000    0.003    0.000    0.004    0.000 C:\Anaconda\lib\ntpath.py:95(splitdrive)
+      331    0.003    0.000    0.003    0.000 {method 'split' of 'str' objects}
+    24313    0.003    0.000    0.003    0.000 {method 'append' of 'list' objects}
+       20    0.000    0.000    0.003    0.000 C:\Anaconda\lib\site-packages\zmq\sugar\socket.py:232(send_multipart)
+       20    0.000    0.000    0.003    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:524(serialize)
+     5746    0.002    0.000    0.003    0.000 C:\Anaconda\lib\sre_parse.py:138(append)
+      140    0.003    0.000    0.003    0.000 {method 'send' of 'zmq.backend.cython.socket.Socket' objects}
+     8379    0.002    0.000    0.002    0.000 {isinstance}
+     9747    0.002    0.000    0.002    0.000 {method 'startswith' of 'str' objects}
+       20    0.000    0.000    0.002    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:490(msg)
+       80    0.000    0.000    0.002    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:92(<lambda>)
+       80    0.000    0.000    0.002    0.000 C:\Anaconda\lib\site-packages\zmq\utils\jsonapi.py:31(dumps)
+       80    0.000    0.000    0.001    0.000 C:\Anaconda\lib\json\__init__.py:193(dumps)
+     2257    0.001    0.000    0.001    0.000 C:\Anaconda\lib\sre_parse.py:195(match)
+       20    0.000    0.000    0.001    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:487(msg_header)
+       82    0.001    0.000    0.001    0.000 {time.time}
+      361    0.000    0.000    0.001    0.000 C:\Anaconda\lib\sre_parse.py:178(__init__)
+      118    0.000    0.000    0.001    0.000 C:\Anaconda\lib\sre_compile.py:178(_compile_charset)
+        1    0.001    0.001    0.001    0.001 {nt.listdir}
+       20    0.000    0.000    0.001    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:435(msg_id)
+       80    0.000    0.000    0.001    0.000 C:\Anaconda\lib\json\encoder.py:186(encode)
+      647    0.001    0.000    0.001    0.000 C:\Anaconda\lib\sre_parse.py:257(_escape)
+     4259    0.001    0.000    0.001    0.000 {_sre.getlower}
+       20    0.000    0.000    0.001    0.000 C:\Anaconda\lib\uuid.py:546(uuid4)
+       20    0.000    0.000    0.001    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:112(_flush_from_subprocesses)
+       20    0.000    0.000    0.001    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:509(sign)
+     2279    0.001    0.000    0.001    0.000 {min}
+      118    0.001    0.000    0.001    0.000 C:\Anaconda\lib\sre_compile.py:207(_optimize_charset)
+       80    0.001    0.000    0.001    0.000 C:\Anaconda\lib\json\encoder.py:212(iterencode)
+     2000    0.001    0.000    0.001    0.000 {method 'replace' of 'str' objects}
+       20    0.000    0.000    0.001    0.000 C:\Anaconda\lib\site-packages\zmq\sugar\poll.py:77(poll)
+     1445    0.001    0.000    0.001    0.000 {method 'join' of 'str' objects}
+       20    0.000    0.000    0.001    0.000 C:\Anaconda\lib\uuid.py:101(__init__)
+       80    0.000    0.000    0.001    0.000 {method 'decode' of 'str' objects}
+      989    0.001    0.000    0.001    0.000 C:\Anaconda\lib\sre_parse.py:90(__init__)
+       20    0.001    0.000    0.001    0.000 {zmq.backend.cython._poll.zmq_poll}
+       20    0.000    0.000    0.001    0.000 {hasattr}
+      722    0.000    0.000    0.001    0.000 C:\Anaconda\lib\sre_compile.py:472(isstring)
+      361    0.001    0.000    0.001    0.000 {_sre.compile}
+      196    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_compile.py:354(_simple)
+      222    0.000    0.000    0.000    0.000 {method 'sort' of 'list' objects}
+      488    0.000    0.000    0.000    0.000 {method 'remove' of 'list' objects}
+      111    0.000    0.000    0.000    0.000 {sorted}
+      691    0.000    0.000    0.000    0.000 {range}
+      380    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:72(opengroup)
+      380    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:83(closegroup)
+       80    0.000    0.000    0.000    0.000 C:\Anaconda\lib\encodings\utf_8.py:15(decode)
+     4663    0.000    0.000    0.000    0.000 {ord}
+      820    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:126(__len__)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:205(extract_header)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\zmq\sugar\attrsettr.py:35(__getattr__)
+      361    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:67(__init__)
+      100    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:95(_check_mp_mode)
+       80    0.000    0.000    0.000    0.000 {_codecs.utf_8_decode}
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\hmac.py:88(copy)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\session.py:201(msg_header)
+       80    0.000    0.000    0.000    0.000 C:\Anaconda\lib\hmac.py:83(update)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:89(_is_master_thread)
+        4    0.000    0.000    0.000    0.000 {method 'clear' of 'dict' objects}
+      240    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\utils\traitlets.py:325(__get__)
+      828    0.000    0.000    0.000    0.000 {max}
+      120    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:86(_is_master_process)
+       80    0.000    0.000    0.000    0.000 C:\Anaconda\lib\json\encoder.py:101(__init__)
+      100    0.000    0.000    0.000    0.000 {method 'update' of '_hashlib.HASH' objects}
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\hmac.py:119(hexdigest)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:227(_flush_buffer)
+       80    0.000    0.000    0.000    0.000 {method 'write' of '_io.StringIO' objects}
+       40    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\utils\jsonutil.py:102(date_default)
+       20    0.000    0.000    0.000    0.000 {built-in method now}
+      721    0.000    0.000    0.000    0.000 {abs}
+       20    0.000    0.000    0.000    0.000 {map}
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\encodings\cp1252.py:14(decode)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\hmac.py:100(_current)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\uuid.py:197(__str__)
+      361    0.000    0.000    0.000    0.000 {method 'items' of 'dict' objects}
+       20    0.000    0.000    0.000    0.000 {nt.urandom}
+       40    0.000    0.000    0.000    0.000 {method 'isoformat' of 'datetime.datetime' objects}
+       60    0.000    0.000    0.000    0.000 {method 'copy' of '_hashlib.HASH' objects}
+      140    0.000    0.000    0.000    0.000 {nt.getpid}
+      196    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_parse.py:134(__setitem__)
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\threading.py:1152(currentThread)
+       20    0.000    0.000    0.000    0.000 {_codecs.charmap_decode}
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\kernel\zmq\iostream.py:236(_new_buffer)
+      169    0.000    0.000    0.000    0.000 D:/M.Tech work/proper/fgm.py:73(<lambda>)
+       20    0.000    0.000    0.000    0.000 {method 'digest' of '_hashlib.HASH' objects}
+       20    0.000    0.000    0.000    0.000 {getattr}
+       20    0.000    0.000    0.000    0.000 {method 'hexdigest' of '_hashlib.HASH' objects}
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\threading.py:983(ident)
+       20    0.000    0.000    0.000    0.000 {locals}
+       20    0.000    0.000    0.000    0.000 {method 'close' of '_io.StringIO' objects}
+       16    0.000    0.000    0.000    0.000 D:/M.Tech work/proper/fgm.py:119(<lambda>)
+       20    0.000    0.000    0.000    0.000 {method 'count' of 'list' objects}
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\hmac.py:30(__init__)
+       40    0.000    0.000    0.000    0.000 {method 'extend' of 'list' objects}
+        1    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\six.py:175(find_module)
+        1    0.000    0.000    0.000    0.000 rules1.py:5(<module>)
+       20    0.000    0.000    0.000    0.000 {method 'upper' of 'str' objects}
+       20    0.000    0.000    0.000    0.000 {method 'getvalue' of '_io.StringIO' objects}
+       76    0.000    0.000    0.000    0.000 C:\Anaconda\lib\sre_compile.py:24(_identityfunction)
+       20    0.000    0.000    0.000    0.000 {method 'copy' of 'dict' objects}
+       20    0.000    0.000    0.000    0.000 {thread.get_ident}
+       20    0.000    0.000    0.000    0.000 C:\Anaconda\lib\site-packages\IPython\utils\py3compat.py:13(no_code)
+        1    0.000    0.000    0.000    0.000 {method 'disable' of '_lsprof.Profiler' objects}
+
+
+
+
+In [38]: 

@@ -1,0 +1,168 @@
+GSE10166_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"over-activation of the _8MILLION8
+GSE10710_series_matrix.txtimp_info.txt
+Found mutant in !series_summary	"overexpression of a caspase-resistant
+GSE10710_series_matrix.txtimp_info.txt
+Found mutant in !series_summary	"overexpression of a caspase-resistant
+GSE10710_series_matrix.txtimp_info.txt
+Found mutant in !series_summary	"overexpression of a caspase-resistant
+GSE10710_series_matrix.txtimp_info.txt
+Found expressing in !series_summary	"overexpression of a caspase-resis
+GSE10710_series_matrix.txtimp_info.txt
+Found expressing in !series_summary	"overexpression of a caspase-resis
+GSE10710_series_matrix.txtimp_info.txt
+Found expressing in !series_summary	"overexpression of a caspase-resis
+GSE10710_series_matrix.txtimp_info.txt
+Found overexpressing in !series_summary	"overexpression of a caspase-r
+GSE10710_series_matrix.txtimp_info.txt
+Found overexpressing in !series_summary	"overexpression of a caspase-r
+GSE10710_series_matrix.txtimp_info.txt
+Found overexpressing in !series_summary	"overexpression of a caspase-r
+GSE11253_series_matrix.txtimp_info.txt
+Found deficient in !series_summary	"loss of _8MILLION8_ family in hscs
+GSE11253_series_matrix.txtimp_info.txt
+Found deficient in !series_summary	"loss of _8MILLION8_ family in hscs
+GSE12388_series_matrix.txtimp_info.txt
+Found expressing in !series_title	"deletional tolerance mediated by ex
+GSE12691_series_matrix.txtimp_info.txt
+Found overexpression in !series_title	"knockdown and overexpression of
+GSE12806_series_matrix.txtimp_info.txt
+Found induced in !series_title	"inhibition of chlamydia pneumoniae rep
+GSE12806_series_matrix.txtimp_info.txt
+Found induced in !series_title	"inhibition of chlamydia pneumoniae rep
+GSE13817-GPL3425_series_matrix.txtimp_info.txt
+Found mutant in !series_title	"deletion of clr3 restores expression of
+GSE13817-GPL7734_series_matrix.txtimp_info.txt
+Found mutant in !series_title	"deletion of clr3 restores expression of
+GSE13864_series_matrix.txtimp_info.txt
+Found deletion in !series_summary	"deletion of the _8MILLION8_ gene in
+GSE13864_series_matrix.txtimp_info.txt
+Found inhibition in !series_summary	"deletion of the _8MILLION8_ gene 
+GSE13916_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"overexpression and/or amplifica
+GSE13916_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"overexpression and/or amplifica
+GSE13916_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"overexpression and/or amplifica
+GSE13916_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"overexpression and/or amplifica
+GSE13916_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"overexpression and/or amplificati
+GSE13916_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"overexpression and/or amplificati
+GSE13916_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"overexpression and/or amplificati
+GSE13916_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"overexpression and/or amplificati
+GSE13916_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"overexpression and/or amplification 
+GSE13916_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"overexpression and/or amplification 
+GSE13916_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"overexpression and/or amplification 
+GSE17751_series_matrix.txtimp_info.txt
+Found loss of in !series_summary	"inactivation of _8MILLION8_ occurs b
+GSE17751_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"inactivation of pten occurs by 
+GSE17751_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"inactivation of pten occurs by 
+GSE17751_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"inactivation of pten occurs by 
+GSE17751_series_matrix.txtimp_info.txt
+Found inactivation in !series_summary	"inactivation of _8MILLION8_ occ
+GSE17751_series_matrix.txtimp_info.txt
+Found silencing in !series_summary	"inactivation of pten occurs by mul
+GSE17751_series_matrix.txtimp_info.txt
+Found silencing in !series_summary	"inactivation of pten occurs by mul
+GSE17751_series_matrix.txtimp_info.txt
+Found silencing in !series_summary	"inactivation of _8MILLION8_ occurs
+GSE17751_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"inactivation of pten occurs by multi
+GSE17751_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"inactivation of pten occurs by multi
+GSE17751_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"inactivation of _8MILLION8_ occurs b
+GSE18668_series_matrix.txtimp_info.txt
+Found knockdown in !series_summary	"knockdown of the oncogene, brd4-_8
+GSE18668_series_matrix.txtimp_info.txt
+Found knockdown in !series_summary	"knockdown of the oncogene, brd4-nu
+GSE18668_series_matrix.txtimp_info.txt
+Found knockdown in !series_summary	"knockdown of the oncogene, _8MILLI
+GSE18900_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"overexpression of its homolog, ospdc
+GSE18900_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"overexpression of its homolog, ospdc
+GSE19180_series_matrix.txtimp_info.txt
+Found loss of in !series_title	"deletion of the _8MILLION8_ gene and f
+GSE19204_series_matrix.txtimp_info.txt
+Found loss of in !series_summary	"deletion of the gene encoding _8MILL
+GSE19204_series_matrix.txtimp_info.txt
+Found deletion in !series_summary	"deletion of the gene encoding _8MIL
+GSE19204_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"deletion of the gene encoding _8M
+GSE19204_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"deletion of the gene encoding fox
+GSE19204_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"deletion of the gene encoding _8MILL
+GSE19753_series_matrix.txtimp_info.txt
+Found inhibition in !series_summary	"inhibition of an initiating oncog
+GSE19753_series_matrix.txtimp_info.txt
+Found inhibition in !series_summary	"inhibition of an initiating oncog
+GSE19753_series_matrix.txtimp_info.txt
+Found inhibition in !series_summary	"inhibition of an initiating oncog
+GSE19753_series_matrix.txtimp_info.txt
+Found overexpression in !series_summary	"inhibition of an initiating o
+GSE19753_series_matrix.txtimp_info.txt
+Found overexpression in !series_summary	"inhibition of an initiating o
+GSE19753_series_matrix.txtimp_info.txt
+Found overexpression in !series_summary	"inhibition of an initiating o
+GSE19753_series_matrix.txtimp_info.txt
+Found overexpression in !series_summary	"inhibition of an initiating o
+GSE19753_series_matrix.txtimp_info.txt
+Found overexpression in !series_summary	"inhibition of an initiating o
+GSE19815_series_matrix.txtimp_info.txt
+Found inhibition in !series_summary	"overexpression of _8MILLION8_ in 
+GSE19925_series_matrix.txtimp_info.txt
+Found deficient in !series_summary	"inactivation of _8MILLION8_-b, whi
+GSE19925_series_matrix.txtimp_info.txt
+Found deficient in !series_summary	"inactivation of rar-b, which has b
+GSE19925_series_matrix.txtimp_info.txt
+Found activation in !series_summary	"inactivation of _8MILLION8_-b, wh
+GSE19925_series_matrix.txtimp_info.txt
+Found induced in !series_summary	"inactivation of rar-b, which has bee
+GSE30501_series_matrix.txtimp_info.txt
+Found knockdown in !series_overall_design	"knockdown _8MILLION8_ expre
+GSE30960_series_matrix.txtimp_info.txt
+Found loss of in !series_summary	"loss of function of dystonin cytoske
+GSE30960_series_matrix.txtimp_info.txt
+Found loss of in !series_summary	"loss of function of _8MILLION8_ cyto
+GSE30960_series_matrix.txtimp_info.txt
+Found loss of in !series_summary	"loss of function of dystonin cytoske
+GSE30960_series_matrix.txtimp_info.txt
+Found null in !series_summary	"loss of function of _8MILLION8_ cytoske
+GSE31093_series_matrix.txtimp_info.txt
+Found mutant in !series_title	"knockdown and overexpression of _8MILLI
+GSE31093_series_matrix.txtimp_info.txt
+Found overexpression in !series_title	"knockdown and overexpression of
+GSE31094_series_matrix.txtimp_info.txt
+Found mutant in !series_title	"overexpression of _8MILLION8_ wild type
+GSE31101_series_matrix.txtimp_info.txt
+Found treated in !series_summary	"silencing of genes that suppress the
+GSE31147-GPL10332_series_matrix.txtimp_info.txt
+Found mutant in !series_title	"knockdown and overexpression of _8MILLI
+GSE31147-GPL10332_series_matrix.txtimp_info.txt
+Found overexpression in !series_title	"knockdown and overexpression of
+GSE31147-GPL4133_series_matrix.txtimp_info.txt
+Found mutant in !series_title	"knockdown and overexpression of _8MILLI
+GSE31147-GPL4133_series_matrix.txtimp_info.txt
+Found overexpression in !series_title	"knockdown and overexpression of
+GSE32885_series_matrix.txtimp_info.txt
+Found induced in !series_title	"loss of heat shock protein _8MILLION8_
+GSE33060_series_matrix.txtimp_info.txt
+Found expressing in !series_overall_design	"loss of function experimen
+GSE33060_series_matrix.txtimp_info.txt
+Found expressing in !series_overall_design	"loss of function experimen
+GSE33060_series_matrix.txtimp_info.txt
+Found expressing in !series_overall_design	"loss of function experimen
+GSE33060_series_matrix.txtimp_info.txt
+Found expressing in !series_overall_design	"loss of function experimen

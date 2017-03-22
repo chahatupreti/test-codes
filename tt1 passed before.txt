@@ -1,0 +1,442 @@
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+3
+4
+5
+6
+7
+8
+9
+10
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+2
+list size is 37
+3
+4
+5
+6
+7
+8
+9
+10
+list size is 254
+--- 0.506000041962 seconds ---
+         621011 function calls in 0.379 seconds
+
+		 
+		 
+		 
+		 
+		 
+1
+2
+list size is 37
+3
+4
+5
+6
+7
+8
+9
+10
+list size is 254
+--- 1.14899992943 seconds ---
+         621455 function calls in 0.128 seconds
+
+
+
+
+
+
+
+1
+2
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 37
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 171
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 53
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 28
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+list size is 21
+3
+4
+5
+6
+7
+8
+9
+10
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 58
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 254
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 8
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 41
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+list size is 173
+
+		
